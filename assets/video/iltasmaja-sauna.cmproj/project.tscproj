@@ -18,7 +18,7 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "./media/1612100894.063499/20210131_145710.mp4",
+      "src" : "./media/1612105462.210558/20210131_145710.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20210131T133536",
       "sourceTracks" : [
@@ -53,7 +53,7 @@
     },
     {
       "id" : 2,
-      "src" : "./media/1612100894.066883/iltasmajalogo-colored.png",
+      "src" : "./media/1612105462.212344/iltasmajalogo-colored.png",
       "rect" : [0, 0, 2000, 512],
       "lastMod" : "20210130T150248",
       "sourceTracks" : [
@@ -76,7 +76,7 @@
     },
     {
       "id" : 3,
-      "src" : "./media/1612101647.304410/bensound-sunny.mp3",
+      "src" : "./media/1612105462.213268/bensound-sunny.mp3",
       "rect" : [0, 0, 0, 0],
       "lastMod" : "20210131T135543",
       "sourceTracks" : [
@@ -96,10 +96,45 @@
       "metadata" : {
         "timeAdded" : "20210131T135622"
       }
+    },
+    {
+      "id" : 4,
+      "src" : "./media/1612105879.145096/20210131_145823.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20210131T150755",
+      "sourceTracks" : [
+        {
+          "range" : [0, 4062106],
+          "type" : 0,
+          "editRate" : 90000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 45120],
+          "type" : 2,
+          "editRate" : 1000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -26.523761986506,
+          "peakLevel" : 0.252873152494431,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210131T150759"
+      }
     }
   ],
   "timeline" : {
-    "id" : 4,
+    "id" : 5,
     "sceneTrack" : {
       "scenes" : [
         {
@@ -112,7 +147,7 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 5,
+                    "id" : 6,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : {
@@ -132,7 +167,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 6,
+                            "id" : 7,
                             "_type" : "Callout",
                             "def" : {
                               "kind" : "remix",
@@ -445,7 +480,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 7,
+                            "id" : 8,
                             "_type" : "Callout",
                             "def" : {
                               "kind" : "remix",
@@ -473,7 +508,7 @@
                               },
                               "horizontal-alignment" : "center",
                               "resize-behavior" : "resizeText",
-                              "text" : "Heated outdoor jacuzzi",
+                              "text" : "Traditional wood heated sauna",
                               "vertical-alignment" : "center",
                               "font" : {
                                 "color-blue" : {
@@ -510,7 +545,7 @@
                                   {
                                     "endTime" : 0,
                                     "time" : 0,
-                                    "value" : [{"name":"fontItalic","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":22,"rangeStart":0,"value":120,"valueType":"double"},{"name":"strikethrough","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":22,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"underline","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":22,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":22,"rangeStart":0,"value":"(45,82,124,255)","valueType":"color"}],
+                                    "value" : [{"name":"underline","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":29,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":29,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontSize","rangeEnd":29,"rangeStart":0,"value":112,"valueType":"double"},{"name":"fgColor","rangeEnd":29,"rangeStart":0,"value":"(45,82,124,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"}],
                                     "duration" : 0
                                   }
                                 ]
@@ -634,6 +669,7 @@
                             "metadata" : {
                               "WinSubProjectDisplayName" : "",
                               "clipSpeedAttribute" : false,
+                              "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\cocoartf2513\n\\cocoatextscaling0\\cocoaplatform0{\\fonttbl\\f0\\fnil\\fcharset0 Montserrat-Regular;}\n{\\colortbl;\\red255\\green255\\blue255;\\red35\\green63\\blue105;}\n{\\*\\expandedcolortbl;;\\cssrgb\\c17647\\c32157\\c48627;}\n\\pard\\tx560\\tx1120\\tx1680\\tx2240\\tx2800\\tx3360\\tx3920\\tx4480\\tx5040\\tx5600\\tx6160\\tx6720\\pardirnatural\\qc\\partightenfactor0\n\n\\f0\\fs240 \\cf2 \\ulnone Traditional wood heated sauna}",
                               "effectApplied" : "none"
                             },
                             "animationTracks" : {
@@ -656,7 +692,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 8,
+                            "id" : 9,
                             "_type" : "Callout",
                             "def" : {
                               "kind" : "remix",
@@ -867,7 +903,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 9,
+                            "id" : 10,
                             "_type" : "Callout",
                             "def" : {
                               "kind" : "remix",
@@ -895,7 +931,7 @@
                               },
                               "horizontal-alignment" : "center",
                               "resize-behavior" : "resizeText",
-                              "text" : "and traditional wood heated sauna",
+                              "text" : "with additional dressing room",
                               "vertical-alignment" : "center",
                               "font" : {
                                 "color-blue" : {
@@ -932,7 +968,7 @@
                                   {
                                     "endTime" : 0,
                                     "time" : 0,
-                                    "value" : [{"name":"fontWeight","rangeEnd":33,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":33,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":33,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fgColor","rangeEnd":33,"rangeStart":0,"value":"(207,232,250,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":33,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":33,"rangeStart":0,"value":50,"valueType":"double"},{"name":"strikethrough","rangeEnd":33,"rangeStart":0,"value":0,"valueType":"int"}],
+                                    "value" : [{"name":"fontItalic","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":29,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"strikethrough","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":29,"rangeStart":0,"value":"(207,232,250,255)","valueType":"color"},{"name":"fontSize","rangeEnd":29,"rangeStart":0,"value":50,"valueType":"double"},{"name":"underline","rangeEnd":29,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":29,"rangeStart":0,"value":400,"valueType":"int"}],
                                     "duration" : 0
                                   }
                                 ]
@@ -1083,7 +1119,7 @@
                         {
                           "type" : 0,
                           "name" : "Title",
-                          "objects" : [ 7 ],
+                          "objects" : [ 8 ],
                           "themeMappings" :  {
                             "font-color" : "background-1",
                             "font-family" : "font-1"
@@ -1092,7 +1128,7 @@
                         {
                           "type" : 0,
                           "name" : "Subtitle 1",
-                          "objects" : [ 8 ],
+                          "objects" : [ 9 ],
                           "themeMappings" :  {
                             "font-color" : "accent-1",
                             "font-family" : "font-1"
@@ -1101,7 +1137,7 @@
                         {
                           "type" : 0,
                           "name" : "Subtitle 2",
-                          "objects" : [ 9 ],
+                          "objects" : [ 10 ],
                           "themeMappings" :  {
                             "font-color" : "accent-1",
                             "font-family" : "font-1"
@@ -1110,7 +1146,7 @@
                         {
                           "type" : 1,
                           "name" : "Color 1",
-                          "objects" : [ 6 ],
+                          "objects" : [ 7 ],
                           "themeMappings" :  {
                             "fill" : "accent-1"
                           }
@@ -1143,24 +1179,24 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 10,
+                    "id" : 11,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 11,
+                          "id" : 12,
                           "_type" : "VMFile",
-                          "src" : 1,
+                          "src" : 4,
                           "trackNumber" : 0,
                           "attributes" : {
-                            "ident" : "20210131_145710"
+                            "ident" : "20210131_145823"
                           },
                           "effects" : [
 
                           ],
                           "start" : 295,
-                          "duration" : 1322,
+                          "duration" : 1353,
                           "mediaStart" : 0,
-                          "mediaDuration" : 1322,
+                          "mediaDuration" : 1353,
                           "scalar" : 1,
                           "animationTracks" : {
 
@@ -1168,9 +1204,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 12,
+                          "id" : 13,
                           "_type" : "AMFile",
-                          "src" : 1,
+                          "src" : 4,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -1185,9 +1221,9 @@
 
                           ],
                           "start" : 295,
-                          "duration" : 1322,
+                          "duration" : 1353,
                           "mediaStart" : 0,
-                          "mediaDuration" : 1322,
+                          "mediaDuration" : 1353,
                           "scalar" : 1,
                           "animationTracks" : {
 
@@ -1195,9 +1231,9 @@
                         }
 ,
                     "start" : 295,
-                    "duration" : 1322,
+                    "duration" : 1353,
                     "mediaStart" : 0,
-                    "mediaDuration" : 1322,
+                    "mediaDuration" : 1353,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -1214,7 +1250,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 10
+                    "rightMedia" : 11
                   },
                   {
                     "name" : "Fade",
@@ -1223,7 +1259,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 10
+                    "leftMedia" : 11
                   }
                 ]
               },
@@ -1231,7 +1267,7 @@
                 "trackIndex" : 2,
                 "medias" : [
                   {
-                    "id" : 13,
+                    "id" : 14,
                     "_type" : "AMFile",
                     "src" : 3,
                     "trackNumber" : 0,
@@ -1294,7 +1330,7 @@
                 "trackIndex" : 3,
                 "medias" : [
                   {
-                    "id" : 14,
+                    "id" : 15,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1311,9 +1347,9 @@
                       "stroke-color-opacity" : 0.425993829965591,
                       "stroke-color-red" : 1.0,
                       "stroke-width" : 2.0,
-                      "tail-x" : -687.144861688137,
+                      "tail-x" : -695.961267938136,
                       "tail-y" : -20.0,
-                      "width" : 1930.28972337627,
+                      "width" : 1947.92253587627,
                       "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
@@ -1347,7 +1383,7 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : 5.14486168813687,
+                      "translation0" : 13.9612679381364,
                       "translation1" : -525.0
                     },
                     "effects" : [
@@ -1380,7 +1416,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 14
+                    "rightMedia" : 15
                   }
                 ]
               },
@@ -1388,7 +1424,7 @@
                 "trackIndex" : 4,
                 "medias" : [
                   {
-                    "id" : 15,
+                    "id" : 16,
                     "_type" : "IMFile",
                     "src" : 2,
                     "trackNumber" : 0,
@@ -1409,10 +1445,10 @@
                             "duration" : 36
                           },
                           {
-                            "endTime" : 1473,
-                            "time" : 1443,
+                            "endTime" : 1489,
+                            "time" : 1451,
                             "value" : -24.7161885826818,
-                            "duration" : 30
+                            "duration" : 38
                           }
                         ]
                       },
@@ -1428,10 +1464,10 @@
                             "duration" : 36
                           },
                           {
-                            "endTime" : 1473,
-                            "time" : 1443,
+                            "endTime" : 1489,
+                            "time" : 1451,
                             "value" : 307.060707905426,
-                            "duration" : 30
+                            "duration" : 38
                           }
                         ]
                       },
@@ -1447,10 +1483,10 @@
                             "duration" : 36
                           },
                           {
-                            "endTime" : 1473,
-                            "time" : 1443,
+                            "endTime" : 1489,
+                            "time" : 1451,
                             "value" : 0.566972161115203,
-                            "duration" : 30
+                            "duration" : 38
                           }
                         ]
                       },
@@ -1466,10 +1502,10 @@
                             "duration" : 36
                           },
                           {
-                            "endTime" : 1473,
-                            "time" : 1443,
+                            "endTime" : 1489,
+                            "time" : 1451,
                             "value" : 0.566972161115203,
-                            "duration" : 30
+                            "duration" : 38
                           }
                         ]
                       }
@@ -1495,9 +1531,9 @@
                           "range" : [ 128, 36]
                         },
                         {
-                          "endTime" : 1473,
-                          "duration" : 30,
-                          "range" : [ 1443, 30]
+                          "endTime" : 1489,
+                          "duration" : 38,
+                          "range" : [ 1451, 38]
                         }
                       ]
                     }
@@ -1511,7 +1547,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 15
+                    "rightMedia" : 16
                   }
                 ]
               },
@@ -1519,7 +1555,7 @@
                 "trackIndex" : 5,
                 "medias" : [
                   {
-                    "id" : 16,
+                    "id" : 17,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1564,7 +1600,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 1650,
+                    "start" : 1648,
                     "duration" : 200,
                     "mediaStart" : 0,
                     "mediaDuration" : 200,
@@ -1589,7 +1625,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 16
+                    "rightMedia" : 17
                   }
                 ]
               },
@@ -1597,7 +1633,7 @@
                 "trackIndex" : 6,
                 "medias" : [
                   {
-                    "id" : 17,
+                    "id" : 18,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1686,7 +1722,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 1681,
+                    "start" : 1678,
                     "duration" : 169,
                     "mediaStart" : 0,
                     "mediaDuration" : 169,
@@ -1711,7 +1747,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : false,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 17
+                    "rightMedia" : 18
                   }
                 ]
               },
