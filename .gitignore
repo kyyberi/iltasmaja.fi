@@ -6,3 +6,8 @@ _site/
 .jekyll-metadata
 # End of https://www.gitignore.io/api/jekyll
 .DS_Store
+assets/video/to-teh-beach.cmproj/media/1612518020.374881/20210205_103858.mp4
+assets/video/to-teh-beach.cmproj/media/1612517466.696901/20210131_145710.mp4
+assets/video/to-teh-beach.cmproj/media/1612518020.375552/20210205_103942.mp4
+*.mp4
+*.mov
