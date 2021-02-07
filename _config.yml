@@ -25,8 +25,8 @@ title : Iltasmaja - guesthouse at Iltasmäki
 tagline: Guesthouse with heated jacuzzi, sauna and distance working facilities 
 author : 
   name : Jarkko Moilanen
-  site: https://lantoniotrento.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
+  site: https://iltamaja.fi
+  description : Guesthouse with heated jacuzzi, sauna and distance working facilities 
   image : social-image.png
   email : jarkko@vimo.fi
   github : kyyberi
@@ -46,7 +46,7 @@ twitter_username: Jarkko_Moilanen
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://kyyberi.github.io/iltasmaja.fi/
+production_url : https://iltasmaja.fi
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
